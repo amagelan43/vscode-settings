@@ -21,3 +21,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Fixed minor edge case in input handling
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Noted known limitation in docs
+- Investigated performance bottleneck, noted findings

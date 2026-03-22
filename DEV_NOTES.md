@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Added inline documentation for core functions
 - Cleaned up old debug logs
+
+## 2026-03-22
+- Tidied up project structure
+- Verified compatibility with latest runtime version
